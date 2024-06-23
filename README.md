@@ -75,7 +75,7 @@ using Rest API to predict the output.
     <li>Published 5 images on <a href="https://hub.docker.com/u/pk2507">Docker Hub</a> and 4 roles on <a href="https://galaxy.ansible.com/my-content/namespaces">Ansible Galaxy</a> having 20+ downloads.</li>
     <li>Participated in <b>HackRush</b>, Hackathon organized by IITGN 2022.</li>
     <li>Selected for <b>Non-Degree Student Exchange program</b> at IITGN for 6th Semester <b>(8.19/10 CPI).</b></li>
-    <li>Nominated to present <b>Research paper on SDGs 19</b> at International Conference on Innovation in Technolog.y</li>
+    <li>Nominated to present <b>Research paper on SDGs 19</b> at International Conference on Innovation in Technology.</li>
   </ul>
  
 <h1>:computer: Tools and Technologies:</h1>
