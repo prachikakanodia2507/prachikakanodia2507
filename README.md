@@ -25,7 +25,7 @@
  # :woman_technologist: Experience
   <ul>
     <li><ins><b>Rakuten | Software Engineer</b></ins> <i>(August' 2023 - Present)</i><br/>
-    <b>Skillset:</b> Full Stack Development, Java, SpringBoot, Data Engineering, MySQL-NoSQL, Linux, Jenkins, Bit-Bucket<br/>
+    <b>Skillset:</b> Full Stack Development, Java, SpringBoot, Data Engineering, MySQL, Linux, Jenkins, Bit-Bucket<br/>
     - Developed end to end RESTful APIs to boost sales from existing AdPlats application by working on billing adjustments. Also involved in bug fixes, performance optimization, and meeting business requirements.<br/>
     - Key contributor in increasing JUnit code coverage.<br/>
     - Optimized MySQL database queries and enhanced overall application performance.<br/>
